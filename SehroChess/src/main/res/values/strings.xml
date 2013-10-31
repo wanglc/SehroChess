@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chess</string>
+    <string name="greeting">FOUR. BLACK. QUEENS.</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
