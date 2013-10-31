@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Chess</string>
-    <string name="greeting">FOUR. BLACK. QUEENS.</string>
+    <string name="greeting">Dedicated to BubbleWrap\nI love you.</string>
     <string name="action_settings">Settings</string>
 
 </resources>
